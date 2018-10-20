@@ -1,2 +1,2 @@
 # Shibatis
-自己的ORM框架
+我的ORM框架
