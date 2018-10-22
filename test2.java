@@ -1,5 +1,4 @@
 public static void main(String[] args){
+	private String name;
 }
 
-
-啊发生大发
